@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "koa-route": "^2.1.0",
-    "sequelize": "^1.7.9"
+    "sequelize": "^2.0.4"
   },
   "devDependencies": {
     "supertest": "^0.13.0",
